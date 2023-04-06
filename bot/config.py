@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5017676978:AAHcUELyv-kS39WR3en6XCpShmDrHqO52RQ"
     APP_ID = "7363654"
     API_HASH = "68e518c106f816dc7eebded6bfaf33a6"
-    DATABASE_URL = "mongodb://<user1>:<user1>@ac-tptqj07-shard-00-00.uozdmsa.mongodb.net:27017,ac-tptqj07-shard-00-01.uozdmsa.mongodb.net:27017,ac-tptqj07-shard-00-02.uozdmsa.mongodb.net:27017/?ssl=true&replicaSet=atlas-5ufxa7-shard-0&authSource=admin&retryWrites=true&w=majority"
+    DATABASE_URL = "mongodb://user1:user1@ac-tptqj07-shard-00-00.uozdmsa.mongodb.net:27017,ac-tptqj07-shard-00-01.uozdmsa.mongodb.net:27017,ac-tptqj07-shard-00-02.uozdmsa.mongodb.net:27017/?ssl=true&replicaSet=atlas-5ufxa7-shard-0&authSource=admin&retryWrites=true&w=majority"
     SUDO_USERS = "" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
